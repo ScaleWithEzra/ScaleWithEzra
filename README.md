@@ -8,7 +8,7 @@ Design decisions get made in the browser, not just in Figma. Most of what's publ
 
 ## Worth a look
 
-- **[design-specs](https://github.com/ScaleWithEzra/Design-specs-)** · hand-coded UI specimen sheets: primitives, type, components. [Live](https://design-specs-9wfp.vercel.app)
+- **[design-specs](https://github.com/ScaleWithEzra/design-specs)** · hand-coded UI specimen sheets: primitives, type, components. [Live](https://design-specs-9wfp.vercel.app)
 - **[UpliftTeams](https://github.com/ScaleWithEzra/UpliftTeams)** · client links hub, designed and built for Uplift Teams. [Live](https://links.upliftteams.com/)
 - **[business-biofunnel](https://github.com/ScaleWithEzra/business-biofunnel)** / **[creator-biofunnel](https://github.com/ScaleWithEzra/creator-biofunnel)** · quiz-style lead funnels, a CRO case study in two flavors
 
