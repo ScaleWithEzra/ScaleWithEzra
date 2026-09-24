@@ -1,18 +1,25 @@
 # Ezra
 
-Product designer who builds the thing, not just the mockup. I run [Seal & Co.](https://sealandco.studio), a boutique studio in Vancouver, WA: product design, web builds, and practical AI workflows for small businesses. Lead UX Designer at [Bridger.social](https://bridger.social). B.S. UX Design at WGU, finishing 2026.
+Product designer. I design the app, then I build it, usually with two AI agents doing the typing while I make the calls.
 
-## How I work
-
-Design decisions get made in the browser, not just in Figma. Refract is the clearest example: a material editor I built to find out how far real 3D could actually go on a phone, borrowing its tools from Figma and its materials from Blender. The smaller pieces here are hand-built HTML and CSS: UI specimens, microsites, and conversion funnels that shipped to real people.
+I run [Seal & Co.](https://sealandco.studio), a small studio in Vancouver, WA. Lead UX Designer at [Bridger.social](https://bridger.social). B.S. in UX Design from WGU, finishing 2026.
 
 ## Worth a look
 
-- **[refract-studio](https://github.com/ScaleWithEzra/refract-studio)** · a mobile-first liquid-glass material editor built on WebGPU. Figma-style design tools, Blender-style 3D materials. [Live](https://refract-iota-three.vercel.app)
-- **[design-specs](https://github.com/ScaleWithEzra/design-specs)** · hand-coded UI specimen sheets: primitives, type, components. [Live](https://design-specs-9wfp.vercel.app)
-- **[business-biofunnel](https://github.com/ScaleWithEzra/business-biofunnel)** / **[creator-biofunnel](https://github.com/ScaleWithEzra/creator-biofunnel)** · quiz-style lead funnels, a CRO case study in two flavors
-- **[ezras-links](https://github.com/ScaleWithEzra/EzraJane_links)** · my own link-in-bio page, same philosophy. [Live](https://ezras-links.vercel.app)
+**[refract-studio](https://github.com/ScaleWithEzra/refract-studio)** · a liquid-glass material editor that runs on your phone. Figma's tools, Blender's materials, WebGPU underneath. Tested, with CI on every push. [Try it](https://refract-iota-three.vercel.app) · [Case study](https://www.ezraseal.dev/work/refract)
 
-## Elsewhere
+**[cosign-ios](https://github.com/ScaleWithEzra/cosign-ios)** · your AI agents sign things for you. Cosign makes sure you said yes first. A native SwiftUI concept with Live Activities and slide to sign.
+
+**[design-specs](https://github.com/ScaleWithEzra/design-specs)** · hand-coded UI specimen sheets: tokens, type, components, no build step. [Live](https://design-specs-9wfp.vercel.app)
+
+## How I work
+
+I make design calls in the browser, not only in Figma. Refract started as one question: how much real 3D can a phone take before it stutters?
+
+Agents write a lot of my code. I look at every screen myself, and before anything ships a second agent reads the first one's work and argues with it.
+
+## Work with me
+
+Built an app with Lovable, Bolt, v0 or Cursor, and it works but doesn't feel designed? I do a [design pass](https://contra.com/s/Aebrvrqm-design-pass-for-your-app) inside your code, plus a rules file so your AI tool keeps new screens on-brand. Or start with a [45-minute call](https://contra.com/s/NLl6Lemk-app-design-call).
 
 Portfolio: [ezraseal.dev](https://ezraseal.dev) · Studio: [sealandco.studio](https://sealandco.studio)
