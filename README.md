@@ -2,7 +2,7 @@
 
 Product designer. I design the app, then I build it, usually with two AI agents doing the typing while I make the calls.
 
-I run [Seal & Co.](https://sealandco.studio), a small studio in Vancouver, WA. Lead UX Designer at [Bridger.social](https://bridger.social). B.S. in UX Design from WGU, finishing 2026.
+I run [Seal & Co.](https://sealandco.studio), a small studio in Vancouver, WA. B.S. in UX Design from WGU, finishing 2026.
 
 ## Worth a look
 
